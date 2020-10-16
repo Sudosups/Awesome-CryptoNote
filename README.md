@@ -36,7 +36,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
     Lethean       (LTHN) - NaWe5B5NqvZ3TV2Mj1pxYtTgrnTBwQDMDNtqVzMR6Xa5ejxu6hbi6KULHTqd732ebc5qTHvKXonokghUBd3pjLa8czovfrW1G561vPanSPRh
     Masari         (MSR) - 5t5mEm254JNJ9HqRjY9vCiTE8aZALHX3v8TqhyQ3TTF9VHKZQXkRYjPDweT9kK4rJw7dDLtZXGjav2z9y24vXCdRc7v1f1DDSyWL8fAri8
     Monero         (XMR) - 8BycUyGk8GuDYNnAbAHhoxQBLecUJQbExbSX21Z9DoaB5jcEVtNAY7d4puNnB6psJ5SptRw42r4v6fp1yFHTUWaW9RaQDvb
-    NibbleClassic (NBXC) - Nib1fzFuBrQeumAJCf5ntj2K6jWQJnzZTU2Bz8ejSu1T8QzowcQWoe5a9LCLPqnfcqfSMXTdKWULfgwZxBioX4yi5p4UDjF29x
+    Nibble (NBXC) - XCR.......
     TurtleCoin    (TRTL) - TRTLuzcHQu2Z3QotVB4C7yihoN4Kw2fhzMwF2DWVVK2AhGWaBZhsUJhWsG7z6BYYoqgyiQVHHJeRiU78UmwLcfqPTY1MBS7bjzb
 
 * * *
@@ -64,7 +64,7 @@ _A list of promising projects to dig your rig into._
 -   [Loki (LOKI)](https://github.com/loki-project/)
 -   [Masari (MSR)](https://github.com/masari-project/masari)
 -   [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
--   [NibbleClassic (NBXC)](https://github.com/NibbleClassic/NibbleClassic-Core-CLI)
+-   [Nibble (NBXC)](https://github.com/Nibble-Network/Nibble)
 -   [TurtleCoin (TRTL)](https://github.com/turtlecoin/turtlecoin/)
 -   [WowNero (WOW)](https://github.com/wownero/wownero)
 -   [WRKZCoin (WRKZ)](https://github.com/wrkzcoin)
@@ -96,7 +96,7 @@ _Documentation and papers pulled in from around the web._
 _"Gotta' have a nice looking wallet to store future assets"_
 
 -   [Conceal Desktop](https://github.com/ConcealNetwork/conceal-desktop)
--   [NibbleClassic: Leather GUI Wallet](https://github.com/NibbleClassic/NBXLeather-GUI-Wallet)
+-   [Nibble: Desktop GUI Wallet](https://github.com/Nibble-Network/NibbleDesktop)
 -   [Monero: Monero GUI](https://github.com/monero-project/monero-gui)
 -   [TurtleCoin: Nest GUI](https://github.com/turtlecoin/turtle-wallet-go/)
 -   [TurtleCoin: Proton Wallet](https://github.com/turtlecoin/turtle-wallet-proton)
